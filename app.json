@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "rebellious-bananas",
+    "slug": "snack-f80997ce-a64a-48f2-8acc-1aef6b5bcb24",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sushmanaalla3.snackf80997cea64a48f28acc1aef6b5bcb24"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6bcb2e3-e157-47fd-bd03-9d63ad41c3e7"
+      }
+    }
+  }
+}
